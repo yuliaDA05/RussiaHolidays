@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Russia Holidays</string>
+    <string name="login_text">Вход в приложение</string>
+    <string name="login_login">Логин</string>
+    <string name="login_password">Пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="login_empty">Данные не введены</string>
+    <string name="login_error">Не удалось войти</string>
+    <string name="loading_error">Не удалось загрузить округ: %s</string>
+    <string name="divider_current_month">Праздники в этом месяце:</string>
+    <string name="divider_next_month">Праздники в следующем месяце:</string>
+    <string name="holiday_share_format">%02d.%02d будет отмечаться %s!\n\n%s</string>
+</resources>
